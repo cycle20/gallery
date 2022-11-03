@@ -542,5 +542,5 @@ authPage.prototype = {
 	}
 };
 // create the authPage:
-new authPage();
+//new authPage();
 
